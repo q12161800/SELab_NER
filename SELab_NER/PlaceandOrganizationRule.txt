@@ -1,0 +1,12 @@
+﻿
+VC+Nc
+VCL+Nc
+Nb+Nc
+Nb+Nc+Nc
+Nc+Na
+Nc+Na+Na
+Nc+Na+Na+Nc
+Nc+Nc
+Nc+Nc+Na+Nc
+Nc+Nc+Nc
+Nc+Caa+Nc
